@@ -35,9 +35,9 @@ Meu projeto permite que você alterne entre duas paisagens distintas: um campo s
 
 ## **Como Rodar o Projeto**
 
-Baixe os Arquivos: Faça o download de todos os arquivos do projeto (arquivos `.html`, `.js` e `.mp3`).
-Organize a Estrutura: Certifique-se de que os arquivos de áudio (`campo.mp3` e `cidade.mp3`) estejam na mesma pasta do seu arquivo `sketch.js`. Se preferir outra organização, lembre-se de ajustar os caminhos no código.
-Abra no Navegador: Simplesmente abra o arquivo `index.html` em qualquer navegador web moderno para iniciar a simulação.
+- Baixe os Arquivos: Faça o download de todos os arquivos do projeto (arquivos `.html`, `.js` e `.mp3`).
+- Organize a Estrutura: Certifique-se de que os arquivos de áudio (`campo.mp3` e `cidade.mp3`) estejam na mesma pasta do seu arquivo `sketch.js`. Se preferir outra organização, lembre-se de ajustar os caminhos no código.
+- Abra no Navegador: Simplesmente abra o arquivo `index.html` em qualquer navegador web moderno para iniciar a simulação.
 
 ## **Detalhes dos Áudios**
 Para garantir a máxima autenticidade e imersão, dediquei atenção especial à criação das paisagens sonoras:
